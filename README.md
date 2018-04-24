@@ -4,6 +4,9 @@ Automatic coloring and shading of manga-style lineart, using Tensorflow + cGANs
 
 This Repositories is python 3 porting and TensorFlow Version Compatibility for old Version.
 
+I will upload the source code soon.
+
+
 ### Outline and Color Hints :
 
 ![](https://github.com/cryingmiso/Deep-Auto-Coloring/blob/master/git_img/web_before.png)
@@ -11,6 +14,8 @@ This Repositories is python 3 porting and TensorFlow Version Compatibility for o
 ### Result - Color Hint base Coloring or Auto Coloring:
 
 ![](https://github.com/cryingmiso/Deep-Auto-Coloring/blob/master/git_img/web_after.png)
+
+
 
 ## Setup
 
