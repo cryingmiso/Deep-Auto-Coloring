@@ -1,8 +1,9 @@
 # Deep-Auto-Coloring
-```
+
 Automatic coloring and shading of manga-style lineart, using Tensorflow + cGANs
-My Repositories is python 3 porting and TensorFlow Version Compatibility for old Version.
-```
+
+This Repositories is python 3 porting and TensorFlow Version Compatibility for old Version.
+
 
 ## Setup
 
