@@ -5,8 +5,6 @@ Automatic coloring and shading of manga-style lineart, using Tensorflow + cGANs
 This Repositories is python 3 porting and TensorFlow Version Compatibility for old Version(python2, tensorflow 0.).
 (https://github.com/gunpowder78/manga-auto-coloring)
 
-I will upload the source code soon.
-
 
 ### Outline and Color Hints :
 
